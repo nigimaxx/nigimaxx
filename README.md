@@ -2,4 +2,4 @@
 
 [niklasmack.de](https://niklasmack.de)
 
-![Metrics](/github-metrics.svg)
+![Metrics Calendar](/metrics.plugin.calendar.full.svg)
